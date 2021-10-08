@@ -23,11 +23,8 @@ namespace weekly_chalange_3
             {
 
                 case "BATMAN":
-                    RichSuperHero();
-                    break;
-
                 case "IRONMAN":
-                    RichSuperHero();
+                    Console.WriteLine("rich");
                     break;
 
                 case "SPIDERMAN":
@@ -47,10 +44,7 @@ namespace weekly_chalange_3
                     break;
             }
         }
-        static void RichSuperHero()
-        {
-            Console.WriteLine("rich");
-        }
+
     }
 }
-}
+
