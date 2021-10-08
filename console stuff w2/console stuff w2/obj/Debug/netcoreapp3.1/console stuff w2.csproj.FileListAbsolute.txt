@@ -1,0 +1,13 @@
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\bin\Debug\netcoreapp3.1\console stuff w2.exe
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\bin\Debug\netcoreapp3.1\console stuff w2.deps.json
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\bin\Debug\netcoreapp3.1\console stuff w2.runtimeconfig.json
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\bin\Debug\netcoreapp3.1\console stuff w2.runtimeconfig.dev.json
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\bin\Debug\netcoreapp3.1\console stuff w2.dll
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\bin\Debug\netcoreapp3.1\console stuff w2.pdb
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\obj\Debug\netcoreapp3.1\console stuff w2.AssemblyInfoInputs.cache
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\obj\Debug\netcoreapp3.1\console stuff w2.AssemblyInfo.cs
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\obj\Debug\netcoreapp3.1\console stuff w2.csproj.CoreCompileInputs.cache
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\obj\Debug\netcoreapp3.1\console stuff w2.dll
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\obj\Debug\netcoreapp3.1\console stuff w2.pdb
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\obj\Debug\netcoreapp3.1\console stuff w2.genruntimeconfig.cache
+C:\Users\515291\source\repos\console stuff w2\console stuff w2\obj\Debug\netcoreapp3.1\console stuff w2.csprojAssemblyReference.cache

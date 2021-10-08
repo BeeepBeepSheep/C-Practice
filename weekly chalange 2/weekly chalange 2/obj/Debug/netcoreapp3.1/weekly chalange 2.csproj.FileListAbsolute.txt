@@ -1,0 +1,13 @@
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\bin\Debug\netcoreapp3.1\weekly chalange 2.exe
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\bin\Debug\netcoreapp3.1\weekly chalange 2.deps.json
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\bin\Debug\netcoreapp3.1\weekly chalange 2.runtimeconfig.json
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\bin\Debug\netcoreapp3.1\weekly chalange 2.runtimeconfig.dev.json
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\bin\Debug\netcoreapp3.1\weekly chalange 2.dll
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\bin\Debug\netcoreapp3.1\weekly chalange 2.pdb
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\obj\Debug\netcoreapp3.1\weekly chalange 2.csprojAssemblyReference.cache
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\obj\Debug\netcoreapp3.1\weekly chalange 2.AssemblyInfoInputs.cache
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\obj\Debug\netcoreapp3.1\weekly chalange 2.AssemblyInfo.cs
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\obj\Debug\netcoreapp3.1\weekly chalange 2.csproj.CoreCompileInputs.cache
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\obj\Debug\netcoreapp3.1\weekly chalange 2.dll
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\obj\Debug\netcoreapp3.1\weekly chalange 2.pdb
+C:\Users\515291\source\repos\weekly chalange 2\weekly chalange 2\obj\Debug\netcoreapp3.1\weekly chalange 2.genruntimeconfig.cache

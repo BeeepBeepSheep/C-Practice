@@ -1,0 +1,13 @@
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\bin\Debug\netcoreapp3.1\coding chalange 08 10 2021.exe
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\bin\Debug\netcoreapp3.1\coding chalange 08 10 2021.deps.json
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\bin\Debug\netcoreapp3.1\coding chalange 08 10 2021.runtimeconfig.json
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\bin\Debug\netcoreapp3.1\coding chalange 08 10 2021.runtimeconfig.dev.json
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\bin\Debug\netcoreapp3.1\coding chalange 08 10 2021.dll
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\bin\Debug\netcoreapp3.1\coding chalange 08 10 2021.pdb
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\obj\Debug\netcoreapp3.1\coding chalange 08 10 2021.csprojAssemblyReference.cache
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\obj\Debug\netcoreapp3.1\coding chalange 08 10 2021.AssemblyInfoInputs.cache
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\obj\Debug\netcoreapp3.1\coding chalange 08 10 2021.AssemblyInfo.cs
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\obj\Debug\netcoreapp3.1\coding chalange 08 10 2021.csproj.CoreCompileInputs.cache
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\obj\Debug\netcoreapp3.1\coding chalange 08 10 2021.dll
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\obj\Debug\netcoreapp3.1\coding chalange 08 10 2021.pdb
+C:\Users\515291\source\repos\coding chalange 08 10 2021\coding chalange 08 10 2021\obj\Debug\netcoreapp3.1\coding chalange 08 10 2021.genruntimeconfig.cache
